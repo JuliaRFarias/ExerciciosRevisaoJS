@@ -1,6 +1,8 @@
-// EXERCÍCIO 23 - TABUADA
-// Utilize um for para mostrar a tabuada do número 7,
-// do 1 até o 10.
+//EXERCÍCIO 23 - TABUADA
+//Utilize um for para mostrar a tabuada do número 7,
+//do 1 aré o 10.
 
-// Escreva sua solução abaixo:
-
+//Escreva a solução abaixo:
+/for (let i = 1; i <= 10; i++) {
+  console.log(`7 x ${i} = ${7 * i}`);
+}
